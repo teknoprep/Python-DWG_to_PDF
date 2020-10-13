@@ -8,7 +8,7 @@ Installing
 4. Clone this project.
 5. Run pip install -r requirements.txt
 6. Copy "Lib\site-packages\dotenv" folder of python folder to "\bin\Lib\site-packages" of FreeCAD folder
-
+7. Add delete option variable so that if a DWG is deleted we also delete the PDF... this should be a user slectable variable as we may not always want to do this.
 
 Run
 -------------------------------
