@@ -24,3 +24,4 @@ Run
 4. Move to bin folder of FreeCAD folder.
 5. Run following command as:
     freecad <path of project>\app.py
+5a. If you are running this inside VMware ---> https://kb.vmware.com/s/article/2092210 .. you need to enable 3D support
